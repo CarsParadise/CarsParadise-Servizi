@@ -9,7 +9,7 @@ import java.util.logging.Logger;
 
 public class ServerMail {
 
-    private static String emailAzienda = "carsparadise2023@gmail.com";
+    private static String emailAzienda = "";
     private static String password = "";
 
     public static void sendEmail(String email, String messaggio, String oggetto) {
